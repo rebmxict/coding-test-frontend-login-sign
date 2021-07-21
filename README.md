@@ -1,4 +1,4 @@
-# Frontend: Login using your wallet
+# Frontend: Login using your wallet (rio start)
 
 We want to authenticate using our Metamask wallet. To do this we will make the user sign a message which is exchanged with the backend. The backend will on its turn, respond with an authorization token.
 
